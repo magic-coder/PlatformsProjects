@@ -1,0 +1,1 @@
+include ':ASample', ':PFQQLib', ':PFWXLib', ':PFMILib', ':MultiPlatformsBaseLib', ':PFQihooLib', ':PFHuaweiLib'
